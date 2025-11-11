@@ -1,5 +1,5 @@
 Hi 👋, I'm Anshuman</h1>
-<h3 align="center">A passionate Data analyst from India</h3>
+<h3 align="center">A passionate machine learning engineer from India</h3>
 
 - 🌱 I’m currently learning **machine learning**
 
